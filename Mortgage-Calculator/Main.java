@@ -9,7 +9,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        // Get principal
+        // Get the principal
         System.out.print("Input principal for loan: ");
         Principal = scanner.nextInt();
 
